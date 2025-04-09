@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Cormorant SC';
+  src:
+    url('./fonts/CormorantSC-Regular.woff2') format('woff2'),
+    url('./fonts/CormorantSC-Regular.woff') format('woff');
+  font-weight: 500;
+  font-style: medium;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src:
+    url('./fonts/Inter-Regular.woff2') format('woff2'),
+    url('./fonts/Inter-Regular.woff') format('woff');
+  font-weight: 700;
+  font-style: bold;
+}
